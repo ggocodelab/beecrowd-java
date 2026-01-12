@@ -5,7 +5,7 @@ Linguagem: Java
 
 
 # Sobre
-Repo criado para armazenar as soluções apresentadas para dos desafios da plataforma Beecrowd utilizando a linguagem de programação Java.
+Repo criado para armazenar as soluções dos desafios da plataforma Beecrowd utilizando a linguagem de programação Java.
 
 
 # Rescursos
@@ -27,4 +27,4 @@ Repo criado para armazenar as soluções apresentadas para dos desafios da plata
 | 🟢     | 1007     | [Diferença](beecrowd1007/Main.java)                |
 | 🟢     | 1008     | [Salário](beecrowd1008/Main.java)                  |
 | 🟢     | 1009     | [Salário com Bônus](beecrowd1009/Main.java)        |
-
+| 🟢     | 1010     | [Cálculo Simples](beecrowd1010/Main.java)          |
