@@ -21,9 +21,10 @@ Repo criado para armazenar as soluções apresentadas para dos desafios da plata
 | 🟢     | 1001     | [Extremamente Básico](beecrowd1001/Main.java)      |
 | 🟢     | 1002     | [Área do Círculo](beecrowd1002/Main.java)          |
 | 🟢     | 1003     | [Soma Simples](beecrowd1003/Main.java)             |
-| 🟢     | 1004     | [Produto Simples](beecrowd1004/ProdutoSimples.java)          |
+| 🟢     | 1004     | [Produto Simples](beecrowd1004/ProdutoSimples.java)|
 | 🟢     | 1005     | [Média 1](beecrowd1005/Main.java)                  |
 | 🟢     | 1006     | [Média 2](beecrowd1006/Main.java)                  |
 | 🟢     | 1007     | [Diferença](beecrowd1007/Main.java)                |
-
+| 🟢     | 1008     | [Salário](beecrowd1008/Main.java)                  |
+| 🟢     | 1009     | [Salário com Bônus](beecrowd1009/Main.java)        |
 
