@@ -28,3 +28,6 @@ Repo criado para armazenar as soluções dos desafios da plataforma Beecrowd uti
 | 🟢     | 1008     | [Salário](beecrowd1008/Main.java)                  |
 | 🟢     | 1009     | [Salário com Bônus](beecrowd1009/Main.java)        |
 | 🟢     | 1010     | [Cálculo Simples](beecrowd1010/Main.java)          |
+| 🟢     | 1011     | [Esfera](beecrowd1011/Main.java)                   |
+| 🟢     | 1012     | [Área](beecrowd1012/Main.java)                     |
+| 🟢     | 1013     | [O maior](beecrowd1013/Main.java)                  |
