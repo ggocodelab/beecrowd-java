@@ -31,3 +31,6 @@ Repo criado para armazenar as soluções dos desafios da plataforma Beecrowd uti
 | 🟢     | 1011     | [Esfera](beecrowd1011/Main.java)                   |
 | 🟢     | 1012     | [Área](beecrowd1012/Main.java)                     |
 | 🟢     | 1013     | [O maior](beecrowd1013/Main.java)                  |
+| 🟢     | 1014     | [Consumo](beecrowd1014/Main.java)                  |
+| 🟢     | 1015     | [Distância entre dois pontos](beecrowd1015/Main.java) |
+| 🟢     | 1016     | [Distância](beecrowd1016/Main.java)                |
