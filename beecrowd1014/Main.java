@@ -15,7 +15,7 @@ public class Main {
 
         double consumo_medio = x / y;
 
-        System.out.printf("%.3f km/l", consumo_medio);
+        System.out.printf("%.3f km/l%n", consumo_medio);
 
         sc.close();
     }
