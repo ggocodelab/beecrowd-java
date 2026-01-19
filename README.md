@@ -34,3 +34,5 @@ Repo criado para armazenar as soluções dos desafios da plataforma Beecrowd uti
 | 🟢     | 1014     | [Consumo](beecrowd1014/Main.java)                  |
 | 🟢     | 1015     | [Distância entre dois pontos](beecrowd1015/Main.java) |
 | 🟢     | 1016     | [Distância](beecrowd1016/Main.java)                |
+| 🟢     | 1017     | [Gasto de Combustível](beecrowd1017/Main.java)     |
+| 🟢     | 1018     | [Cédulas](beecrowd1018/Main.java)                  |
