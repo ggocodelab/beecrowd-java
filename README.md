@@ -38,4 +38,5 @@ Repo criado para armazenar as soluções dos desafios da plataforma Beecrowd uti
 | 💚     | 1018     | [Cédulas](beecrowd1018/Main.java)                  |
 | 🟢     | 1019     | [Conversão de Tempo](beecrowd1019/Main.java)       |
 | 🟢     | 1020     | [Idade em Dias](beecrowd1020/Main.java)            |
-| 🟢     | 1021     | [Notas e Moedas](beecrowd1021/Main.java)           |
+| 💚     | 1021     | [Notas e Moedas](beecrowd1021/Main.java)           |
+| 🟢     | 1035     | [Teste de Seleção 1](beecrowd1035/Main.java)       |
