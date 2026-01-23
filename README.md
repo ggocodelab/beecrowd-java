@@ -40,3 +40,4 @@ Repo criado para armazenar as soluções dos desafios da plataforma Beecrowd uti
 | 🟢     | 1020     | [Idade em Dias](beecrowd1020/Main.java)            |
 | 💚     | 1021     | [Notas e Moedas](beecrowd1021/Main.java)           |
 | 🟢     | 1035     | [Teste de Seleção 1](beecrowd1035/Main.java)       |
+| 🟢     | 1036     | [Fórmula de Bhaskara](beecrowd1036/Main.java)      |
