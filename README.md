@@ -38,3 +38,5 @@ Repo criado para armazenar as soluções dos desafios da plataforma Beecrowd uti
 | 🟢     | 1035     | [Teste de Seleção 1](beecrowd1035/Main.java)           |
 | 🟢     | 1036     | [Fórmula de Bhaskara](beecrowd1036/Beecrowd1036.java)  |
 | 🟢     | 1037     | [Intervalo](beecrowd1037/Beecrowd1037.java)            |
+| 🟢     | 1038     | [Lanche](beecrowd1037/Beecrowd1038.java)               |
+| 🟢     | 1040     | [Média 3](beecrowd1037/Beecrowd1040.java)              |
