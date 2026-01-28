@@ -41,3 +41,4 @@ Repo criado para armazenar as soluções dos desafios da plataforma Beecrowd uti
 | 🟢     | 1038     | [Lanche](beecrowd1038/Beecrowd1038.java)               |
 | 🟢     | 1040     | [Média 3](beecrowd1040/Beecrowd1040.java)              |
 | 🟢     | 1041     | [Média 3](beecrowd1041/Beecrowd1041.java)              |
+| 🟢     | 1042     | [Média 3](beecrowd1042/Beecrowd1042.java)              |
